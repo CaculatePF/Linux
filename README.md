@@ -13,5 +13,7 @@ Linux相关
 ### 记录
 
          man-pages
+         Linux Programmer's Manual 
+          General Commands Manual 
 
 
