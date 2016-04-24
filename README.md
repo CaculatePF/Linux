@@ -9,5 +9,9 @@ Linux相关
     import socket
 
     help (socket) 查找输入库的位置
+    
+### 记录
+
+         man-pages
 
 
