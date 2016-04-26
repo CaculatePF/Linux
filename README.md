@@ -3,6 +3,11 @@ Linux相关
 ## 指令
 
     whereis python3 查找指令的位置
+    显示指令
+    ls
+    cat
+    stat
+    file
 
 ### python指令
 
@@ -14,7 +19,7 @@ Linux相关
 
          man-pages
          Linux Programmer's Manual 
-          General Commands Manual 
+         General Commands Manual 
          说明文档地址 https://www.kernel.org/doc/man-pages/
 
 
